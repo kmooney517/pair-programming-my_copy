@@ -1,2 +1,48 @@
-.form {
-  border: 1px solid black; }
+.everything {
+  width: 500px;
+  height: 628px;
+  border: 1px solid black;
+  margin: 20px;
+  border-radius: 3px; }
+
+div.heading {
+  background-color: #3E8ACC;
+  font-size: 23px;
+  height: 50px;
+  padding: 25px 25px 6px 18px;
+  color: white; }
+
+input {
+  width: 435px;
+  height: 15px;
+  margin: 10px;
+  padding: 17px;
+  border-radius: 4px;
+  font-size: 12px;
+  padding-left: 20px;
+  padding-top: 7px;
+  padding-bottom: 7px; }
+  input#user-comment {
+    height: 50px; }
+
+select {
+  width: 475px;
+  height: 33px;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 4px;
+  font-size: 12px;
+  background-color: white; }
+
+div.footer {
+  background-color: #C8DEF1;
+  padding: 16px;
+  margin-top: 20px; }
+
+button {
+  background-color: #3E8ACC;
+  padding: 10px;
+  font-size: 14px;
+  color: white;
+  border: none;
+  border-radius: 4px; }
